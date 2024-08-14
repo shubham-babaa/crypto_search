@@ -19,6 +19,7 @@ This project is a cryptocurrency information dashboard that fetches data from th
 
 ## Features
 
+
 - View the latest cryptocurrency prices and market details.
 - Search for specific cryptocurrencies.
 - Navigate between different pages for detailed views using React Router DOM.
