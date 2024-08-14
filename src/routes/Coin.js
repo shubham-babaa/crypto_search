@@ -8,6 +8,7 @@ import "./Coin.css";
 const Coin = () => {
   const params = useParams();
   const [coin, setCoin] = useState({});
+  
 
   const url = `https://api.coingecko.com/api/v3/coins/${params.coinId}`;
 
